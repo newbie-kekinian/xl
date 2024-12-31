@@ -1,0 +1,4 @@
+payload:
+  # github
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
